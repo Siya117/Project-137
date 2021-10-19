@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start, #status, #number_of_objects{
+    font-size: 18px;
+}
+.form-group{
+    width: 35%;
+}
+canvas{
+    margin-top: 100px;
+}
